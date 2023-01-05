@@ -1,7 +1,7 @@
 # Webserv
-Ti
-understand why a URL starts with HTTP
-Tis project is about writing a HTTP server in C++ 98.
+
+Understand why a URL starts with HTTP.
+This project is about writing a HTTP server in C++ 98.
 Your executable will be run as follows:
 ./webserv [configuration file]
 
